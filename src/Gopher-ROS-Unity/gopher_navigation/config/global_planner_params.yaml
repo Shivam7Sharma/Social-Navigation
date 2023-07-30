@@ -1,0 +1,9 @@
+GlobalPlanner:
+  use_dijkstra: false
+  use_quadratic: false
+  use_grid_path: true
+  old_navfn_behavior: false
+  use_astar: true
+  astar_epsilon: 1.0
+  lethal_cost_threshold: 100
+  allow_unknown: true
