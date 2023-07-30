@@ -43,3 +43,34 @@ By now you would be able to see the robot moving in the hospital environment.
 
 ### Step 10
 Have fun experimenting!
+
+![Picture1](images/Picture1.png)
+
+![Picture2](images/Picture2.png)
+
+![Picture3](images/Picture3.png)
+
+(Note: GitHub might not display .emf files correctly)
+
+![Picture5](images/Picture5.png)
+
+![Picture6](images/Picture6.png)
+
+![Screenshot 2023-07-30 112450](images/Screenshot%202023-07-30%20112450.png)
+
+![Screenshot 2023-07-30 112509](images/Screenshot%202023-07-30%20112509.png)
+
+![Screenshot 2023-07-30 112526](images/Screenshot%202023-07-30%20112526.png)
+
+![Screenshot 2023-07-30 112539](images/Screenshot%202023-07-30%20112539.png)
+
+![Screenshot 2023-07-30 112552](images/Screenshot%202023-07-30%20112552.png)
+
+![Screenshot 2023-07-30 112612](images/Screenshot%202023-07-30%20112612.png)
+
+![Screenshot 2023-07-30 112647](images/Screenshot%202023-07-30%20112647.png)
+
+![Screenshot 2023-07-30 112945](images/Screenshot%202023-07-30%20112945.png)
+
+![Screenshot 2023-07-30 113139](images/Screenshot%202023-07-30%20113139.png)
+
